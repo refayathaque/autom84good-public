@@ -1,0 +1,2 @@
+# https://stackoverflow.com/questions/29820791/git-ignore-node-modules-folder-everywhere
+node_modules/
